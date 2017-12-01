@@ -15,7 +15,7 @@
         <sys_class_name>sp_instance</sys_class_name>
         <sys_created_by>petert@br.ibm.com</sys_created_by>
         <sys_created_on>2017-12-01 13:54:04</sys_created_on>
-        <sys_customer_update>true</sys_customer_update>
+        <sys_customer_update>false</sys_customer_update>
         <sys_id>4ede9b89db3a4b405814bb01ef9619ef</sys_id>
         <sys_mod_count>1</sys_mod_count>
         <sys_name/>
